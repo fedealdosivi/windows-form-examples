@@ -1,0 +1,14 @@
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\LoginAutomatico.Form1.resources
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\LoginAutomatico.Properties.Resources.resources
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\LoginAutomatico.csproj.GenerateResource.Cache
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\LoginAutomatico.LOGEO.resources
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\bin\Debug\SICU connect.exe.manifest
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\bin\Debug\SICU connect.application
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\bin\Debug\SICU connect.exe
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\bin\Debug\SICU connect.pdb
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\SICU connect.exe.manifest
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\SICU connect.application
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\SICU connect.exe
+c:\users\fede\documents\visual studio 2010\Projects\LoginAutomatico\LoginAutomatico\obj\x86\Debug\SICU connect.pdb
+C:\Users\fede\Desktop\windows form projects tests\LoginAutomatico\LoginAutomatico\obj\x86\Debug\SICU connect.exe
+C:\Users\fede\Desktop\windows form projects tests\LoginAutomatico\LoginAutomatico\obj\x86\Debug\SICU connect.pdb

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SICU connect.exe" version="1.0.0.0" publicKeyToken="74e980bc4934f720" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Logo_UTN_Azul.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SICU connect" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SICU connect.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SICU connect.exe" size="243200">
+      <assemblyIdentity name="SICU connect" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>LqdMf8Ur9qYlzlpl6IJ/ZEjksog=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Logo_UTN_Azul.ico" size="227390">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cM/B/eJYUxHKqCIUgAbhUdcATHo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=FEDE-PC\fede" issuerKeyHash="3690463368f1c0f5876383a878fac6abf7a575ea" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>r90pxXgfRI3V3LNiNbXa9FJjHMk=</DigestValue></Reference></SignedInfo><SignatureValue>Z23VQYUk2e/3Un9qX1rNYgA7gKIe1+GNw7Jb3e8EYtYhdwc1wdPTGMk4KTDolpiBCj2jK+GUH2wYgA3d5DpUR+JteGrul/oIPqpUrkDaoxQDteA57se4PnR7muoqATeXC6kpXha5BfWqEfS9+UnG8yWfPkkavz2XOhI6zTRc1+g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>597RnI2Vt9iKGRGEpCx6KPN7RfFl2wuDSZ5Tr+7/4jcEEiaN/a1bTA30pkJzvMq4v4alXXdVYmEF7iAKJsRXntYty3no0jgUCBsYyr+qmMvS4E/yVwtaHqfFGYcFDLkzHn23XYWTgOYavMyVwYtKF7cd/AwEjzYBMJMoBbUM7cc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c91c6352f4dab53562b3dcd58d441f78c529ddaf" Description="" Url=""><as:assemblyIdentity name="SICU connect.exe" version="1.0.0.0" publicKeyToken="74e980bc4934f720" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=FEDE-PC\fede</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>L+tdrPSZyaMKe9q8IZv2LL4EpOo=</DigestValue></Reference></SignedInfo><SignatureValue>IFTmh02MaX4eSXqUwi6FrX/1DsjHzkApy+zxJ5aXa9bLHWlWxbJ8S+fuKvjWJHDaBELyw13H7WIdMVif9MEJgPGknT/drrze8z9JNe2YdGJ33Jj22bHOlOya42jEzLl6zm1GT54uu4wMZMjbu0242dBNpeDtlmVel1nOKpCZ4bE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>597RnI2Vt9iKGRGEpCx6KPN7RfFl2wuDSZ5Tr+7/4jcEEiaN/a1bTA30pkJzvMq4v4alXXdVYmEF7iAKJsRXntYty3no0jgUCBsYyr+qmMvS4E/yVwtaHqfFGYcFDLkzHn23XYWTgOYavMyVwYtKF7cd/AwEjzYBMJMoBbUM7cc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQcLtB3zAvibBKU/NxGGS4KTANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgARgBFAEQARQAtAFAAQwBcAGYAZQBkAGUwHhcNMTUxMDIwMTk1NTExWhcNMTYxMDIwMDE1NTExWjAjMSEwHwYDVQQDHhgARgBFAEQARQAtAFAAQwBcAGYAZQBkAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOfe0ZyNlbfYihkRhKQseijze0XxZdsLg0meU6/u/+I3BBImjf2tW0wN9KZCc7zKuL+GpV13VWJhBe4gCibEV57WLct56NI4FAgbGMq/qpjL0uBP8lcLWh6nxRmHBQy5Mx59t12Fk4DmGrzMlcGLShe3HfwMBI82ATCTKAW1DO3HAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAD8EeJFf16IWbt19lC6gE0enm2wu9Z1sUbgP47xSAiU94j7/9OvFlZeNl+ojaGEXLQYx6n12eXW1LU5vHs1fKpduafUXi/cmTTeh8VjWQqZVXfG61YAAVYEPLolzmruI5o4djb03nOPhJatIwUT5Z5NU0JrCvrAkCIU3311mT324=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

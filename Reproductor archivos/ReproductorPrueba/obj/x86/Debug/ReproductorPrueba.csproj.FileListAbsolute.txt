@@ -1,0 +1,32 @@
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\bin\Debug\ReproductorPrueba.exe
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\bin\Debug\ReproductorPrueba.pdb
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\bin\Debug\Interop.WMPLib.dll
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\bin\Debug\AxInterop.WMPLib.dll
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.csproj.ResolveComReference.cache
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.Form1.resources
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.Properties.Resources.resources
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.csproj.GenerateResource.Cache
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.exe
+c:\users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.pdb
+C:\Users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\fede\documents\visual studio 2010\Projects\ReproductorPrueba\ReproductorPrueba\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.csproj.ResolveComReference.cache
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.exe
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.pdb
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\bin\Debug\ReproductorPrueba.exe
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\bin\Debug\ReproductorPrueba.pdb
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\bin\Debug\Interop.WMPLib.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.Form1.resources
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.Properties.Resources.resources
+C:\Users\fede\Desktop\windows form projects tests\Reproductor archivos\ReproductorPrueba\obj\x86\Debug\ReproductorPrueba.csproj.GenerateResource.Cache

@@ -1,0 +1,23 @@
+-  Bot de taringa multifuncion: 
+ Que se pueda cargar una lista de usuarios:proxy y con eso se puedan puntuar posts/comentarios.
+Tambien algo bastante buscado es un spammer via MP.
+
+- Bot para addmefast: 
+Bot que automatize todo lo de addmefast. 
+
+- FollowJacker de facebook:
+Script que se intala en una web y cuando el usuario entra, le hace un clickjack y con eso empieza a "seguir" cierto perfil de facebook definido por el usuario. Ya existe pero se vende solo en un foro yankee. Y esta menos quemado que los like jacker. 
+
+http://www.blackhatworld.com/blackhat-seo/social-media/793588-fb-follow-jacker-harness-power-facebook-followers-wp-plugin.html
+
+Ranker de comentarios FB: El usuario carga lista de users de facebook y un link a un comentario. El bot va al comentario y lo likea con cada una de las cuentas.
+
+Acortador de urls/antiban: El usuario pone una o varias url y el programa las acorta con goo.gl, bit.ly, tinyurl, etc. Este nose si da para vender pero bueno. 
+    
+Bot instagram: Bot simple de instagram para hacer follow/unfollow. El usuario ingresa su user y otro user de instagram/hashtag y el programa empieza a seguir personas según esos parámetros. Agregar otra pequeña función que permita hacer UNFOLLOW a todos los users que no te están siguiendo. Y poner limite de usuarios/horario. Existen bots de instagram que tienen esto pero son muy complejos y tienen muchas otras funciones. Ej: http://followliker.com/
+
+Lo mismo de arriba para twitter.
+
+Creador de cuentas de k7.net : El programa crea la cantidad de cuentas que el usuario desee y las exporta como usuario:pass:telefono en un bloc de notas. Servirá para juntar varios numeros de telefono y con eso verificar cuentas de youtube entre otras plataformas. 
+
+Ranker de apps googleplay: El usuario ingresa mail:pass:proxy junto con un link a una app de google play y el programa ingresa un comentario random (Definido por el usuario desde una lista de comentarios) además de un rating. Esto nose si se podra hacer pero bueno, servirá. 

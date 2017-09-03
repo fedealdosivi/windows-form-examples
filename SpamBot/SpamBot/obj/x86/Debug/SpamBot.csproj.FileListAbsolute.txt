@@ -1,0 +1,14 @@
+c:\users\fede\documents\visual studio 2010\Projects\SpamBot\SpamBot\bin\Debug\SpamBot.exe
+c:\users\fede\documents\visual studio 2010\Projects\SpamBot\SpamBot\bin\Debug\SpamBot.pdb
+c:\users\fede\documents\visual studio 2010\Projects\SpamBot\SpamBot\obj\x86\Debug\SpamBot.Form1.resources
+c:\users\fede\documents\visual studio 2010\Projects\SpamBot\SpamBot\obj\x86\Debug\SpamBot.Properties.Resources.resources
+c:\users\fede\documents\visual studio 2010\Projects\SpamBot\SpamBot\obj\x86\Debug\SpamBot.csproj.GenerateResource.Cache
+c:\users\fede\documents\visual studio 2010\Projects\SpamBot\SpamBot\obj\x86\Debug\SpamBot.exe
+c:\users\fede\documents\visual studio 2010\Projects\SpamBot\SpamBot\obj\x86\Debug\SpamBot.pdb
+C:\Users\fede\Desktop\SpamBot\SpamBot\obj\x86\Debug\SpamBot.exe
+C:\Users\fede\Desktop\SpamBot\SpamBot\obj\x86\Debug\SpamBot.pdb
+C:\Users\fede\Desktop\SpamBot\SpamBot\bin\Debug\SpamBot.exe
+C:\Users\fede\Desktop\SpamBot\SpamBot\bin\Debug\SpamBot.pdb
+C:\Users\fede\Desktop\SpamBot\SpamBot\obj\x86\Debug\SpamBot.Form1.resources
+C:\Users\fede\Desktop\SpamBot\SpamBot\obj\x86\Debug\SpamBot.Properties.Resources.resources
+C:\Users\fede\Desktop\SpamBot\SpamBot\obj\x86\Debug\SpamBot.csproj.GenerateResource.Cache

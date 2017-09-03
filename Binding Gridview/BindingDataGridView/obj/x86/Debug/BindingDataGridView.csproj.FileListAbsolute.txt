@@ -1,0 +1,7 @@
+C:\Users\fede\Desktop\binding\BindingDataGridView\bin\Debug\BindingDataGridView.exe
+C:\Users\fede\Desktop\binding\BindingDataGridView\bin\Debug\BindingDataGridView.pdb
+C:\Users\fede\Desktop\binding\BindingDataGridView\obj\x86\Debug\IsraSoft.BindingDataGridView.Form1.resources
+C:\Users\fede\Desktop\binding\BindingDataGridView\obj\x86\Debug\IsraSoft.BindingDataGridView.Properties.Resources.resources
+C:\Users\fede\Desktop\binding\BindingDataGridView\obj\x86\Debug\BindingDataGridView.csproj.GenerateResource.Cache
+C:\Users\fede\Desktop\binding\BindingDataGridView\obj\x86\Debug\BindingDataGridView.exe
+C:\Users\fede\Desktop\binding\BindingDataGridView\obj\x86\Debug\BindingDataGridView.pdb

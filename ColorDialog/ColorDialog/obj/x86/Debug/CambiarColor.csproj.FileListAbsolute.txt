@@ -1,0 +1,14 @@
+c:\users\fede\documents\visual studio 2010\Projects\ColorDialog\ColorDialog\bin\Debug\ColorDialog.exe
+c:\users\fede\documents\visual studio 2010\Projects\ColorDialog\ColorDialog\bin\Debug\ColorDialog.pdb
+c:\users\fede\documents\visual studio 2010\Projects\ColorDialog\ColorDialog\obj\x86\Debug\CambiarColor.Form1.resources
+c:\users\fede\documents\visual studio 2010\Projects\ColorDialog\ColorDialog\obj\x86\Debug\CambiarColor.Properties.Resources.resources
+c:\users\fede\documents\visual studio 2010\Projects\ColorDialog\ColorDialog\obj\x86\Debug\CambiarColor.csproj.GenerateResource.Cache
+c:\users\fede\documents\visual studio 2010\Projects\ColorDialog\ColorDialog\obj\x86\Debug\ColorDialog.exe
+c:\users\fede\documents\visual studio 2010\Projects\ColorDialog\ColorDialog\obj\x86\Debug\ColorDialog.pdb
+C:\Users\fede\Desktop\windows form projects tests\ColorDialog\ColorDialog\obj\x86\Debug\ColorDialog.exe
+C:\Users\fede\Desktop\windows form projects tests\ColorDialog\ColorDialog\obj\x86\Debug\ColorDialog.pdb
+C:\Users\fede\Desktop\windows form projects tests\ColorDialog\ColorDialog\bin\Debug\ColorDialog.exe
+C:\Users\fede\Desktop\windows form projects tests\ColorDialog\ColorDialog\bin\Debug\ColorDialog.pdb
+C:\Users\fede\Desktop\windows form projects tests\ColorDialog\ColorDialog\obj\x86\Debug\CambiarColor.Form1.resources
+C:\Users\fede\Desktop\windows form projects tests\ColorDialog\ColorDialog\obj\x86\Debug\CambiarColor.Properties.Resources.resources
+C:\Users\fede\Desktop\windows form projects tests\ColorDialog\ColorDialog\obj\x86\Debug\CambiarColor.csproj.GenerateResource.Cache

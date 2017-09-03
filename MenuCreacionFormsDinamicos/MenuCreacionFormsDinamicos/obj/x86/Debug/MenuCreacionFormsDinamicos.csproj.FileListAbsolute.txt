@@ -1,0 +1,14 @@
+c:\users\fede\documents\visual studio 2010\Projects\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\bin\Debug\MenuCreacionFormsDinamicos.exe
+c:\users\fede\documents\visual studio 2010\Projects\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\bin\Debug\MenuCreacionFormsDinamicos.pdb
+c:\users\fede\documents\visual studio 2010\Projects\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.Form1.resources
+c:\users\fede\documents\visual studio 2010\Projects\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.Properties.Resources.resources
+c:\users\fede\documents\visual studio 2010\Projects\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.csproj.GenerateResource.Cache
+c:\users\fede\documents\visual studio 2010\Projects\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.exe
+c:\users\fede\documents\visual studio 2010\Projects\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.pdb
+C:\Users\fede\Desktop\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.exe
+C:\Users\fede\Desktop\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.pdb
+C:\Users\fede\Desktop\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\bin\Debug\MenuCreacionFormsDinamicos.exe
+C:\Users\fede\Desktop\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\bin\Debug\MenuCreacionFormsDinamicos.pdb
+C:\Users\fede\Desktop\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.Form1.resources
+C:\Users\fede\Desktop\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.Properties.Resources.resources
+C:\Users\fede\Desktop\MenuCreacionFormsDinamicos\MenuCreacionFormsDinamicos\obj\x86\Debug\MenuCreacionFormsDinamicos.csproj.GenerateResource.Cache
